@@ -3,7 +3,6 @@ table{
   border: 2px solid;
   width: 50em;
   height: 40em;
-  align-items: "left | center | right";
 }
 
 .first-row{
