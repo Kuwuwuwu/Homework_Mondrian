@@ -32,19 +32,6 @@ table{
   height: 1rem;
 }
 
-.seventh-row{
-  border: 2px solid;
-  border-top: 1px solid white;
-  border-bottom: 1px solid white;
-  height: .25rem;
-}
-
-.eighth-row{
-  border: 2px solid;
-  border-top: 1px solid white;
-  height: .25rem;
-}
-
 .column1{
   width: 12%;
 }
